@@ -6,6 +6,18 @@
 
 Areas of the Arctic are browning as the result of extreme weather events, which are becoming more frequent in the Arctic as the climate warms. A sudden period of warmth in the middle of winter tricks the plants into thinking it's spring, so they burst bud early and lose their cold hardiness, leaving them unprepared for a return to normal cold winter temperatures. The plant die-back that follows the events of this 'extreme winter warming' also appear to be significantly reducing the ability of Arctic ecosystems to help combat climate change.
 
+## E
+
+#### EC-Earth
+
+EC-Earth is a community Earth System Model which utilises 
+
+## F
+
+#### FMI - Finnish Meteorological Institute
+
+
+
 ## P
 
 #### Permafrost
